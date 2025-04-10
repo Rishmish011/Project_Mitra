@@ -1,4 +1,4 @@
-# Project_Mitra: Project_Mitra: Multi-scale Adaptive Network Epidemic Modeling
+# Project Mitra: Multi-scale Adaptive Network (MAN) Epidemic Modeling
 An advanced epidemic modeling platform using multi-scale adaptive networks for public health research and education
 
 > "Mitra" means "friend" in Hindi - a friendly companion for epidemic modeling and public health planning
@@ -26,6 +26,17 @@ Project_Mitra is an interactive, open-source epidemic modeling platform that imp
 ## License
 
 Project_Mitra is available for non-commercial use under CC BY-NC 4.0. Free for research, education, and public health applications with appropriate attribution.
+
+
+## DISCLAIMER OF LIABILITY
+
+This software is provided "as is" without warranty of any kind, express or implied. The authors and contributors disclaim all warranties, including, but not limited to, any implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+In no event shall the authors, contributors, or copyright holders be liable for any claim, damages, or other liability, whether in action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+This software is intended for research and educational purposes only. Any decisions made based on the outputs of this model are the sole responsibility of the user. The software developers are not responsible for any actions taken based on the software's results or interpretations thereof.
+
+This epidemic model is a simplified representation of complex real-world systems and should not be the sole basis for public health decision-making.
 
 ## Get Involved
 
