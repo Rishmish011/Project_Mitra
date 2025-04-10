@@ -3,7 +3,7 @@ An advanced epidemic modeling platform using multi-scale adaptive networks for p
 
 > "Mitra" means "friend" in Hindi - a friendly companion for epidemic modeling and public health planning
 
-## About Project_Mitra
+## About Project Mitra
 
 Project_Mitra is an interactive, open-source epidemic modeling platform that implements the innovative Multi-scale Adaptive Network (MAN) approach to disease simulation. Unlike traditional compartmental or agent-based models, Mitra's adaptive framework bridges multiple scales of human interaction to deliver more realistic and nuanced epidemic projections.
 
