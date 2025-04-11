@@ -1,4 +1,4 @@
-# MAMEP (Man-made Epidemic Predictor) Installation Guide
+# Installation Guide
 
 This document provides step-by-step instructions for installing the MAMEP application on both Windows and macOS systems.
 
