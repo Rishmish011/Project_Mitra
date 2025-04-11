@@ -1,6 +1,6 @@
 # Installation Guide
 
-This document provides step-by-step instructions for installing the MAMEP application on both Windows and macOS systems.
+This document provides step-by-step instructions for installing the application on both Windows and macOS systems.
 
 ## System Requirements
 
