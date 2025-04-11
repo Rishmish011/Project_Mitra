@@ -28,7 +28,7 @@ Project_Mitra is an interactive, open-source epidemic modeling platform that imp
 Project Mitra is available for non-commercial use under CC BY-NC 4.0. Free for research, education, and public health applications with appropriate attribution.
 
 
-## Disclaimer Of Liability
+## Disclaimer of Liability
 
 This software is provided "as is" without warranty of any kind, express or implied. The authors and contributors disclaim all warranties, including, but not limited to, any implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
