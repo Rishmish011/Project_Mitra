@@ -15,7 +15,7 @@ python3 -m venv man_epidemic_env
 source man_epidemic_env/bin/activate
 
 # Install required packages
-echo "Installing required packages..."
+echo "Installing required packages (this may take few minutes)..."
 pip install numpy pandas networkx matplotlib scipy seaborn tqdm
 
 # Copy application files
