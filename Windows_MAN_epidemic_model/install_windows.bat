@@ -17,7 +17,7 @@ python -m venv man_epidemic_env
 call man_epidemic_env\Scripts\activate.bat
 
 :: Install required packages
-echo Installing required packages...
+echo Installing required packages (this may take few minutes)...
 pip install numpy pandas networkx matplotlib scipy seaborn tqdm
 
 :: Copy application files
