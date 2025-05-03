@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 15 15:25:02 2025
 
-@author: risha
+@author: Rishabh Mishra
 """
 
 
@@ -1517,6 +1517,9 @@ class MANEpidemicApp(tk.Tk):
         - Less realistic but provides a useful baseline
         
         2. Gossip-Based Diffusion (Network-Aware)
+
+        Published as: Lind, P.G., Da Silva, L.R., Andrade Jr, J.S. and Herrmann, H.J., 2007. Spreading gossip in social networks. 
+        Physical Review E—Statistical, Nonlinear, and Soft Matter Physics, 76(3), p.036117.
         ---------------------------------------
         This more sophisticated approach models how information actually spreads 
         through social networks, based on research about gossip propagation in 
@@ -1919,7 +1922,7 @@ class MANEpidemicApp(tk.Tk):
         Mitra: Multi-scale Adaptive Network (MAN) Epidemic Model
         =================================================
         
-        Version 1.0
+        Version 2.0
         
         An advanced epidemic modeling platform incorporating:
         
@@ -1968,6 +1971,9 @@ class MANEpidemicApp(tk.Tk):
         In no event shall the authors, contributors, or copyright holders be liable for any claim, damages, or other liability, whether in action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
         This software is intended for research and educational purposes only. Any decisions made based on the outputs of this model are the sole responsibility of the user. The software developers are not responsible for any actions taken based on the software's results or interpretations thereof.
         This epidemic model is a simplified representation of complex real-world systems and should not be the sole basis for public health decision-making.
+
+        ## The gossip model
+        This model was published as: Lind, P.G., Da Silva, L.R., Andrade Jr, J.S. and Herrmann, H.J., 2007. Spreading gossip in social networks. Physical Review E—Statistical, Nonlinear, and Soft Matter Physics, 76(3), p.036117.
         
         """
         
